@@ -12,3 +12,11 @@ Your task is to create a bug report that includes the following information:
 ​
 ​
 Please include as much detail as possible so that the development team can easily reproduce and fix the bug.
+
+Solution 
+LUKMAN OLABANJO 
+SOFTWARE QUALITY ASSURANCE ENGINEER 
+BUG REPORT 
+Please find the Google Sheets documentation below thanks 
+
+*https://docs.google.com/spreadsheets/d/1mPHnhzvsgTlOIbAgv-7JyDg22ZMhvDTuFiyHDAr9F5c/edit?usp=sharing*
